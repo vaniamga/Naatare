@@ -1,0 +1,97 @@
+{
+    "children": [
+    {
+        "class": "Una por semana",
+        "price": "$245 mensuales"
+    },
+    {
+        "class": "Dos por semana",
+        "price": "$355 mensuales"
+    },
+    {
+        "class": "Tres por semana",
+        "price": "$450 mensuales"
+    },
+    {
+        "class": "Clase particular",
+        "price": "$170 por clase"
+    },
+    {
+        "class": "Clase visita",
+        "price": "$100 por visita"
+    }
+    ],
+    "children_vip": [
+    {
+        "class_vip": "Cuatro clases",
+        "price": "$245 mensuales"
+    },
+    {
+        "class_vip": "Ocho clases",
+        "price": "$355 mensuales"
+    },
+    {
+        "class_vip": "Doce clases",
+        "price": "$450 mensuales"
+    }
+    ],
+    "adults": [
+    {
+        "class": "Una por semana",
+        "price": "$325 mensuales"
+    },
+    {
+        "class": "Dos por semana",
+        "price": "$425 mensuales"
+    },
+    {
+        "class": "Tres por semana",
+        "price": "$580 mensuales"
+    },
+    {
+        "class": "Clase particular",
+        "price": "$290 por clase"
+    },
+    {
+        "class": "Clase visita",
+        "price": "$190 por visita"
+    }
+    ],
+    "adults_vip": [
+    {
+        "class_vip": "Cuatro clases",
+        "price": "$800"
+    },
+    {
+        "class_vip": "Ocho clases",
+        "price": "$1480"
+    },
+    {
+        "class_vip": "Doce clases",
+        "price": "$2080"
+    }
+    ],
+
+    "baby": [
+    {
+        "class": "Una por semana",
+        "price": "$245 mensuales"
+    },
+    {
+        "class": "Dos por semana",
+        "price": "$355 mensuales"
+    },
+    {
+        "class": "Tres por semana",
+        "price": "$450 mensuales"
+    },
+        {
+        "class": "Clase particular",
+        "price": "$170 por clase"
+    },
+    {
+        "class": "Clase visita",
+        "price": "$100 por visita"
+    }
+    ]
+}
